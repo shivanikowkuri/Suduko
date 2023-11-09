@@ -1,6 +1,6 @@
 The project is a game that allows the user to solve Sudoku puzzles.Sudoku is one of the most popular puzzle games of all time.The aim of the project is to recreate the experience of solving Sudoku puzzles that people used to do in newspapers.The game consists of a 9x9 grid of boxes that can be filled with digits from 1 to 9.The game has a reset button, an exit button and a check button.The game grid consists of 9 rows and 9 columns, which are buttons that can be clicked to fill the digit in the box.It will be a combination of a 9x9 matrix of buttons.
 
-![Screenshot (16)](https://github.com/shivanikowkuri/Suduko/assets/147936662/d66f5a5f-b65b-405d-8d94-7fa76d3b0e40)
+![Screenshot (27)](https://github.com/shivanikowkuri/Suduko/assets/147936662/d337b9b2-0078-4dab-9bbf-6a71513fb4bc)
 
 The project focuses on technologies used: Java(logic, including OOP concepts), Java Swing and Jframe(GUI).
 Java Swing is a part of JFC(java foundation class) and is responsible for creating lightweight GUI applications.Frames are top-level containers provided by Java Swing which provide a playground for designing components.JFrames are also known as base windows on which other components such as menu bars, panels, labels, text fields, buttons, etc. rely.Almost every Java Swing application starts with the JFrame window.
@@ -30,6 +30,7 @@ Upon clicking the exit button, a warning method will be displayed with two optio
 
 
 Sudoku-The game that piques everyone's interest.
+
 Thankyou!
 
 
