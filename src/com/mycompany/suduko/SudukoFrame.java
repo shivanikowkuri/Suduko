@@ -14,7 +14,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author rahul
+ 
  */
 public class SudukoFrame extends javax.swing.JFrame {
 
